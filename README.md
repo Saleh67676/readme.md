@@ -46,42 +46,7 @@ To create a new project in Weather Tracker:
 | Task Assignments     | Assign weather tracking tasks.       |
 | Communication Tools  | Use chat features for team discussions.|
 
-
 ---تشرش
-
-## Troubleshooting
-**Common Issues:**
-
-- **Issue 1:** Unable to retrieve weather data.  
-  *Solution:* Check your internet connection and try again.
-
-- **Issue 2:** Application crashes on startup.  
-  *Solution:* Ensure that the JDK is properly installed.
-
-- **Issue 3:** Notifications not working.  
-  *Solution:* Verify that notifications are enabled in your settings.
-
-## Advanced Usage
-
-### Scripting
-Weather Tracker allows users to automate tasks using scripting. For example, you can set up a script to automatically retrieve daily weather data.
-
-### Integrations
-Weather Tracker can integrate with various applications:
-| Application Name | Description                            | Link                         |
-|------------------|----------------------------------------|------------------------------|
-| Weatherstack    | Provides real-time weather data.      | [Weatherstack](https://weatherstack.com/) |
-| Task Manager     | Integrates task management capabilities.| [Task Manager](https://taskmanager.com) |
----
-
-![Weatherstack](![image](https://github.com/user-attachments/assets/461d7f48-289d-4474-9e9f-8b1e22458829)
-)
-
-
-## Footnotes
-1. For more information on the Java Development Kit, visit [Oracle's JDK Documentation](https://docs.oracle.com/en/java/javase/11/docs/api/index.html).
-2. Learn more about weather APIs from [OpenWeatherMap](https://openweathermap.org/api).
-
 
 ### Reporting
 Users can generate reports in Weather Tracker to analyze weather patterns. Here’s a Java example of how to generate a simple weather report:
@@ -108,6 +73,38 @@ public class WeatherReport {
         WeatherReport report = new WeatherReport("Riyadh", "35°C", "20%", "15 km/h");
         System.out.println(report.generateReport());
     }
-}
+```
+## Troubleshooting
+**Common Issues:**
 
----ت-0
+- **Issue 1:** Unable to retrieve weather data.  
+  *Solution:* Check your internet connection and try again.
+
+- **Issue 2:** Application crashes on startup.  
+  *Solution:* Ensure that the JDK is properly installed.
+
+- **Issue 3:** Notifications not working.  
+  *Solution:* Verify that notifications are enabled in your settings.
+
+## Advanced Usage
+
+### Scripting
+Weather Tracker allows users to automate tasks using scripting. For example, you can set up a script to automatically retrieve daily weather data.
+
+### Integrations
+Weather Tracker can integrate with various applications:
+| Application Name | Description                            | Link                         |
+|------------------|----------------------------------------|------------------------------|
+| Weatherstack    | Provides real-time weather data.      | [Weatherstack](https://weatherstack.com/) |
+| Task Manager     | Integrates task management capabilities.| [Task Manager](https://taskmanager.com) |
+---
+![Weatherstack](https://raw.githubusercontent.com/Saleh67676/readme.md/main/Screenshot%202024-10-22%20212231.png)
+
+## Footnotes
+1. For more information on the Java Development Kit, visit [Oracle's JDK Documentation](https://docs.oracle.com/en/java/javase/11/docs/api/index.html).
+2. Learn more about weather APIs from [Weatherstack](https://weatherstack.com/documentation).
+
+
+ؤ
+
+
