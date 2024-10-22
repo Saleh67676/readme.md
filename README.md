@@ -46,8 +46,7 @@ To create a new project in Weather Tracker:
 | Task Assignments     | Assign weather tracking tasks.       |
 | Communication Tools  | Use chat features for team discussions.|
 
----تشرش
-
+---
 ### Reporting
 Users can generate reports in Weather Tracker to analyze weather patterns. Here’s a Java example of how to generate a simple weather report:
 ```java
