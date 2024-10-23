@@ -69,7 +69,7 @@ public class WeatherReport {
     }
 
     public static void main(String[] args) {
-        WeatherReport report = new WeatherReport("Riyadh", "35°C", "20%", "15 km/h");
+        WeatherReport report = new WeatherReport("Makkah", "35°C", "20%", "15 km/h");
         System.out.println(report.generateReport());
     }
 ```
@@ -102,8 +102,3 @@ Weather Tracker can integrate with various applications:
 ## Footnotes
 1. For more information on the Java Development Kit, visit [Oracle's JDK Documentation](https://docs.oracle.com/en/java/javase/11/docs/api/index.html).
 2. Learn more about weather APIs from [Weatherstack](https://weatherstack.com/documentation).
-
-
-ؤ
-
-
