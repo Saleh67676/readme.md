@@ -1,7 +1,6 @@
 # Weather Tracker - Real-Time Weather Monitoring
 **Weather Tracker** is a system designed to provide real-time weather updates. It offers accurate data on temperature, humidity, and wind speed, helping users stay informed about weather conditions in various locations.
 
-## Key Features
 
 ## Key Features
 - **Real-time Updates** 📈
